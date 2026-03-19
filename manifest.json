@@ -1,0 +1,9 @@
+{
+  "channel": "stable",
+  "latestVersion": "1.0.0",
+  "minRequiredVersion": "1.0.0",
+  "mandatory": false,
+  "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.0.0/2317-tools-1.0.0.zip",
+  "sha256": "30F506C36C3DE3EEA39D2EA8F84D507901A42E07ECA29AB99D719CD089734EB6",
+  "releaseNotesUrl": "https://github.com/yangwj517/2317-Tools-update/releases/tag/v1.0.0"
+}
