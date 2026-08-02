@@ -4,7 +4,7 @@
   "minRequiredVersion": "1.0.0",
   "mandatory": false,
   "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.1.1/2317-tools-1.1.1.zip",
-  "sha256": "460478b8d606e4b72a4fc3b9289a57541ed98f8e5b741766b967f15365ee0114",
+  "sha256": "17a5df06f0d3aa2649048f97f5d656df96ce29a8219948d9702ccd9f69d45023",
   "releaseNotesUrl": "https://github.com/yangwj517/2317-Tools-update/releases/tag/v1.1.1",
   "releaseNotes": "## v1.1.1\n- 新增默认卡件类型映射表 "
 }
