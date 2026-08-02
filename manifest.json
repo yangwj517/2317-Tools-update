@@ -1,10 +1,10 @@
 {
   "channel": "stable",
-  "latestVersion": "1.1.0",
+  "latestVersion": "1.1.1",
   "minRequiredVersion": "1.0.0",
   "mandatory": false,
-  "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.1.0/2317-tools-1.1.0.zip",
-  "sha256": "72EF0E1B589794274292897286CF649E0B1FC84A8D1C49D5B9FCBC4A73FC2E63",
-  "releaseNotesUrl": "https://github.com/yangwj517/2317-Tools-update/releases/tag/v1.1.0",
-  "releaseNotes": "## v1.1.0\n- 修复版本号显示（3段格式）\n- 修复更新器参数引号解析\n- 更新器增加日志和错误暂停"
+  "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.1.1/2317-tools-1.1.1.zip",
+  "sha256": "2DADB50AD1C46B281B4ABAA963A375755833A77FEC9DBAEC830E26F3EEF70982",
+  "releaseNotesUrl": "https://github.com/yangwj517/2317-Tools-update/releases/tag/v1.1.1",
+  "releaseNotes": "## v1.1.1\n- 修复版本号显示（3段格式）\n- 新增默认卡件类型映射表 "
 }
