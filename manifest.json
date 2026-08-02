@@ -3,7 +3,7 @@
   "latestVersion": "1.1.0",
   "minRequiredVersion": "1.0.0",
   "mandatory": false,
-  "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.0.0/2317-tools-1.0.0.zip",
+  "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.1.0/2317-tools-1.1.0.zip",
   "sha256": "64BC24F7DE696839FFBE663663A9EBC18BE8B62C3CA0D49FD0991C4C1CA4D31E",
-  "releaseNotesUrl": "https://github.com/yangwj517/2317-Tools-update/releases/tag/v1.0.0"
+  "releaseNotesUrl": "https://github.com/yangwj517/2317-Tools-update/releases/tag/v1.1.0"
 }
