@@ -1,7 +1,7 @@
 {
   "channel": "stable",
   "latestVersion": "1.1.2",
-  "minRequiredVersion": "1.1.2",
+  "minRequiredVersion": "1.1.1",
   "mandatory": false,
   "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.1.2/2317-tools-1.1.2.zip",
   "sha256": "48dc653ca1384f2de3632f8a86b0d331010d0e8b02565eebc6e4b7a731415b69",
