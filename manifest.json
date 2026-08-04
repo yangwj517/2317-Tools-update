@@ -1,10 +1,10 @@
 {
   "channel": "stable",
-  "latestVersion": "1.1.1",
-  "minRequiredVersion": "1.0.0",
+  "latestVersion": "1.1.2",
+  "minRequiredVersion": "1.1.2",
   "mandatory": false,
-  "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.1.1/2317-tools-1.1.1.zip",
-  "sha256": "17a5df06f0d3aa2649048f97f5d656df96ce29a8219948d9702ccd9f69d45023",
-  "releaseNotesUrl": "https://github.com/yangwj517/2317-Tools-update/releases/tag/v1.1.1",
-  "releaseNotes": "## v1.1.1\n- 新增默认卡件类型映射表 "
+  "packageUrl": "https://github.com/yangwj517/2317-Tools-update/releases/download/v1.1.2/2317-tools-1.1.2.zip",
+  "sha256": "48dc653ca1384f2de3632f8a86b0d331010d0e8b02565eebc6e4b7a731415b69",
+  "releaseNotesUrl": "https://github.com/yangwj517/2317-Tools-update/releases/tag/v1.1.2",
+  "releaseNotes": "## v1.1.1\n- 修复TrsIoListPlugin机柜排序异常问题  \n- 注意!!!   \n- 此更新会覆盖本地此插件已存储的卡件类型映射表   \n- 可先保存本地数据,更新后替换插件目录中的CardTypeMapping.xlsx"
 }
